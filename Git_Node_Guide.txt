@@ -1,0 +1,10 @@
+(၁)	$ git config --global user.name "PaingSoeThu" git username ထည့်ရာတွင် အသုံးပြုသည်။
+(၂)	$ git config --global user.name သည် မိမိထည့်လိုက်သော git username  မှန်/မမှန် စစ်ရာ အသုံးပြုသည်။
+(၃)	$ git config --global user.email "email@example.com" git email ထည့်ရာတွင် အသုံးပြုသည်။
+(၄)	$ git config --global user.email  သည် မိမိထည့်လိုက်သော email address မှန်/မမှန် စစ်ရာတွင် အသုံးပြုသည်။
+(၅)	$ git init command  သည် git စရေးရင်ရာတွင် initialization လုပ်ဖို့အတွက် ပထမဆုံး အသုံးပြုရသည့် commmand တစ်ခုဖြစ်သည်
+(၆)	$ git clone [rul] သည် git အသုံးပြုထားသည့် project ကို copy ပွားရာတွင် အသုံးပြုသည်။
+(၇)	$ git status command သည် git init လုပ်ထားသည့် folder များအတွင်းရှိ ဖိုင်းများ၏ အခြေအနေများအား ကြည့်ရာတွင် အသုံးပြုသည်။
+(၈)	$ git branch command သည် git branch များအားလုံးကို ကြည့်ရာတွင် အသုံးပြုသည်။
+(၉)	$ git add .file name သည် ထည့်ချင်သော ဖိုင်အမည်အား ထည့်ရာတွင်အသုံးပြုသည်။
+(၁၀)	$ git add . ဆိုရင် ဖိုင်အားလုံးကိုထည့်ရာတွင် အသုံးပြုသည်။
